@@ -5,7 +5,7 @@
 - Spring Master Class - Course Overview
 - Spring Master Class - Git Repository
 - Spring Master Class - Installing Basic Tools
-
+.
 # Spring Framework in 10 Steps
 - 0000 - 02 - Section Introduction - Spring in 10 Steps
 - Step 1 - Setting up a Spring Project using htttp://start.spring.io
